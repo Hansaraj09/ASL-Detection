@@ -14,7 +14,7 @@ Labeling: It contains the Python codes related to labeling our image by using Pa
 Training&Detection: It contains all the code starting from creating the paths, installing the model and all the necessary pipelines, creating label maps and tf records, training code as well real-time detection through the webcam.
 
 Important Links:
-Here I am adding some Important github links that may be helpful for you.
+Here I am adding some Important GitHub links that may be helpful for you.
 Tensorflow 2 Model Zoo: https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
 LabelImg tool: https://github.com/heartexlabs/labelImg
 
