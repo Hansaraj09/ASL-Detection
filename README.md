@@ -9,7 +9,7 @@ Train: It contains all the properly labeled images along with their .xml files. 
 Both the testing and training folder contains my data sets which I have collected through the webcam.
 
 Files:
-DataCollection2: It is a jupyter notebook that contains all the codes for image collection through webcam.
+DataCollection2: It is a jupyter notebook that contains all the codes for image collection through the webcam.
 Labeling: It contains the Python codes related to labeling our image by using Pascal VOC and correspondingly creating the .xml files.
 Training&Detection: It contains all the code starting from creating the paths, installing the model and all the necessary pipelines, creating label maps and tf records, training code as well real-time detection through the webcam.
 
