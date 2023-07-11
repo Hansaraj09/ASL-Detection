@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Labelling img</folder>
+	<filename>thankyou faf5bd7f-15ea-11ee-b155-cfa53603f3ac (5).jpg</filename>
+	<path>C:\Users\Croma\OneDrive\Desktop\Python\Labelling img\thankyou faf5bd7f-15ea-11ee-b155-cfa53603f3ac (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thankyou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>274</ymin>
+			<xmax>589</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

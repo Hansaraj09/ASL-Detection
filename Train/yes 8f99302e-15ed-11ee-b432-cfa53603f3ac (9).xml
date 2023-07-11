@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Labelling img</folder>
+	<filename>yes 8f99302e-15ed-11ee-b432-cfa53603f3ac (9).jpg</filename>
+	<path>C:\Users\Croma\OneDrive\Desktop\Python\Labelling img\yes 8f99302e-15ed-11ee-b432-cfa53603f3ac (9).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>254</ymin>
+			<xmax>335</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>
